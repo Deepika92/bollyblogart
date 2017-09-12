@@ -1,0 +1,12 @@
+http://bollyblogart.com/
+
+https://github.com/Deepika92/bollyblogart
+
+Three topic ideas for blog:
+
+1. How to start learning web development on your own- Begineer :
+In this topic I will introduce various online tutorials and websites which help new begineers to learn and grow in the web development field. I will also add details about each online resource and provide my personal preferences as suggestion.
+
+2. Understanding the 'Service Catalog' management tool service offered by AWS amazon.
+
+3. Real-time Big Data/Hadoop Visualisation & App Metrics Framework
